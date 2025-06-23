@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.imgur.com/8Km9tLL.gif" width="100%" alt="Welcome Banner" />
+
 
 <h1 align="center">Hey there 👋, I'm Neha Yadav</h1>
 <h3 align="center">📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
@@ -30,11 +30,7 @@
 
 ---
 
-## 📈 My GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NehaYadav7395&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaYadav7395&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
