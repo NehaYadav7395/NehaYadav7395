@@ -1,43 +1,59 @@
-<h1 align="center">Hi 👋, I'm Neha Yadav</h1>
-<h3 align="center">An aspiring Data Analyst from India 🇮🇳</h3>
+<!-- Banner Image -->
+<img src="https://i.imgur.com/8Km9tLL.gif" width="100%" alt="Welcome Banner" />
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌱 I’m currently learning **Power BI, Advanced SQL, and Excel for Data Analytics**
-- 👨‍💻 All of my projects will be available here on my [GitHub Profile](https://github.com/NehaYadav7395)
-- 📫 How to reach me: **dev.nehayadav123@gmail.com**
-- 💬 Ask me about: **SQL, Power BI, Excel, Python (Pandas)**
-
----
-
-### 🛠️ Skills & Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Python-Pandas-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/GitHub-Profile-grey?style=flat-square&logo=github" />
-</p>
-
----
-
-### 📊 GitHub Stats:
+<h1 align="center">Hey there 👋, I'm Neha Yadav</h1>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaYadav7395&show_icons=true&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FAD249&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights...;Learning+Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Making+dashboards+that+tell+stories" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+## 🙋‍♀️ About Me:
+- 🎓 B.Tech graduate, passionate about data
+- 🔎 Currently learning **Advanced Excel, DAX, Power BI & SQL**
+- 📊 Building dashboards from real-world datasets
+- 💬 Ask me about **Data Cleaning, Joins, DAX, Visualizations**
+- 🎯 Goal: Become a top-level **Data Analyst**
+
+---
+
+## 🛠️ Tools & Technologies:
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visuals-yellow?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Python-EDA-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-VersionControl-black?style=flat&logo=github" />
+</p>
+
+---
+
+## 📈 My GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NehaYadav7395&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaYadav7395&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/neha-yadav-428092228" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:dev.nehayadav123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
+  <a href="linkedin.com/in/neha-yadav-428092228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
 
-> “I believe in solving real-world problems using data and storytelling.”
+## ✨ Fun Fact:
+📍 I love solving real-world problems with data.
+🏔️ Also a mountain lover who dreams of working remotely with a view!
+
+
+
+
+ 
 
 
