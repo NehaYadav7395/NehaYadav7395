@@ -13,7 +13,6 @@
 ### 🛠️ Skills & Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square&logo=mysql" />
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square&logo=powerbi" />
   <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/Python-Pandas-blue?style=flat-square&logo=python" />
